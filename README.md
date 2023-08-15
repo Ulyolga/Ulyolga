@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ulyolga
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Учебнsq центр "Профессионал"
+- 🌱 I’m currently learning Учебный центр "Профессионал"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
